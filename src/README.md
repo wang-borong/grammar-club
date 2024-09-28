@@ -1,11 +1,26 @@
 ---
 home: true
+icon: home
+title: 主页
+bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
+bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
+bgImageStyle:
+  background-attachment: fixed
+
 heroImage: /cover.png
 heroText: 语法俱乐部
 tagline: 旋元佑
-actionText: 开始学习 →
-actionLink: /content/Preface
-footer: 感谢
+
+actions:
+  - text: 开始学习
+    icon: lightbulb
+    link: /content/Preface
+    type: primary
+
+  - text: 目录
+    link: /content/Contents
+
+footer: 语法俱乐部
 ---
 
 <p class="home_author">旋元佑</p>
