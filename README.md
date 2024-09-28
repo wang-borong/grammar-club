@@ -8,13 +8,13 @@
 
 ## 项目说明
 
-该项目是 [llwslc](https://llwslc.github.io/grammar-club) 版本的修订版。
-本项目（将）做出以下优化：
+该项目是 [llwslc](https://llwslc.github.io/grammar-club) 版本的修订版，大部分文稿基于 llwslc 项目，将做出以下改动与优化：
 
-- 切换 vuepress 1 到 vuepress 2，并使用 vuepress-theme-hope 主题
-- 修订文中的错漏
-- 转换台湾术语为大陆术语（可能）
-- 制作 pdf 与 epub 电子版
+- [x] 切换 vuepress 1 到 vuepress 2，并使用 vuepress-theme-hope 主题
+- [ ] 优化排版
+- [ ] 修订文中的错漏
+- [ ] 转换台湾术语为大陆术语（可能）
+- [ ] 制作 pdf 与 epub 电子版
 
 ## 感谢
 
