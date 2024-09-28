@@ -26,15 +26,8 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "默认页脚",
-  displayFooter: true,
-
-  // 加密配置
-  //encrypt: {
-  //  config: {
-  //    "/demo/encrypt.html": ["1234"],
-  //  },
-  //},
+  footer: "语法俱乐部",
+  displayFooter: false,
 
   // 多语言配置
   metaLocales: {
@@ -46,15 +39,6 @@ export default hopeTheme({
 
   // 在这里配置主题提供的插件
   plugins: {
-    // 注意: 仅用于测试! 你必须自行生成并在生产环境中使用自己的评论服务
-    comment: {
-      provider: "Giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
-      repoId: "R_kgDOG_Pt2A",
-      category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
-    },
-
     components: {
       components: ["Badge", "VPCard"],
     },
