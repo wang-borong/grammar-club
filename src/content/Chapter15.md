@@ -4,7 +4,11 @@
 
 以下不再赘述简单的观念，直接提供十二则例子来说明对等连接词与对等从句需注意的地方。这些例子部分模仿 GMAT 考题的形态，每一句中都有一部分画了底线，其中包含对等连接词使用不当所造成的错误。读者可以自我测验一下：先找找看错在哪里，试着改改看，然后再看后面的说明以及建议的改法。这些例句的性质相当接近 GMAT 考题，句型结构多半较长，也比较复杂，其中包含了本书下一章才会讲解的“简化从句”。如果读者一时无法全部了解，或是不知如何修改，可以先看一下翻译再尝试改改看。
 
+<Quote wrong=true>
+
 1. The Yangtze River, the most vital source of irrigation water across the width of China <u>and important as a transportation conduit as well</u>, has nurtured the Chinese civilization for millennia. （误）
+
+</Quote>
 
 - （长江是横贯中国最重要的灌溉水源，同时也是重要的交通管道，数千年来孕育着中华文化。）
 
@@ -20,7 +24,11 @@
 
 </Quote>
 
+<Quote wrong=true>
+
 2. Scientists believe that hibernation is triggered <u>by decreasing environmental temperatures, food shortage, shorter periods of daylight, and by hormonal activity</u>. （误）
+
+</Quote>
 
 - （科学家认为引发冬眠的因素包括环境的气温下降、食物短缺、白昼缩短以及荷尔蒙作用。）
 
@@ -32,7 +40,11 @@
 
 </Quote>
 
+<Quote wrong=true>
+
 3. Smoking by pregnant women <u>may slow the growth and generally harm</u> the fetus. （误）
+
+</Quote>
 
 - （孕妇吸烟可能妨碍胚胎发育，对胚胎造成一般性的伤害。）
 
@@ -48,7 +60,11 @@
 
 </Quote>
 
+<Quote wrong=true>
+
 4. Rapid advances in computer technology have enhanced <u>the speed of calculation, the quality of graphics, the fun with computer games, and have lowered prices</u>. （误）
+
+</Quote>
 
 - （电脑技术的快速进展提高了计算的速度、图形的品质、电脑游戏的乐趣，也降低了价格。）
 
@@ -60,7 +76,11 @@
 
 </Quote>
 
+<Quote wrong=true>
+
 5. Population density is very low in Canada, <u>the largest country in the Western Hemisphere and it is the second largest in the whole world</u>. （误）
+
+</Quote>
 
 - （加拿大人口密度很低，它是西半球最大的国家，也是世界第二大国。）
 
@@ -72,7 +92,11 @@
 
 </Quote>
 
+<Quote wrong=true>
+
 6. Once the safety concerns over the new production procedure were removed and <u>with its superiority to the old one being</u> proved, there was nothing to stop the factory from switching over. （误）
+
+</Quote>
 
 - （新的生产程序一旦排除安全方面的顾虑，并且证明它比旧的生产程序更好，这家工厂就没有理由不作改变了。）
 
@@ -92,7 +116,11 @@
 
 </Quote>
 
+<Quote wrong=true>
+
 7. Worker bees in a honeybee hive assume various tasks, such as guarding the entrance, <u>serving as sentinel and to sound a warning at the slightest threat</u>, and exploring outside the nest for areas rich in flowers and, consequently, nectar. （误）
+
+</Quote>
 
 - （蜂窝中的工蜂担负各种任务，包括守卫入口、站哨并在威胁来临时发出警报，以及到巢外寻找富有花朵及花蜜的地区。）
 
@@ -104,7 +132,11 @@
 
 </Quote>
 
+<Quote wrong=true>
+
 8. Shi Huangdi of the Qin dynasty built the Great Wall of China in the 3rd century BC, a gigantic construction that meanders from Gansu province in the west through 2,400km to the Yellow Sea in the east and <u>ranging</u> from 4 to 12 m in width. （误）
+
+</Quote>
 
 - （秦始皇在公元前第三世纪修筑了长城，这是巨大的建筑，从西端的甘肃蜿蜒 2,400 公里到东端的黄海，宽度由 4 米至 12 米不等。）
 
@@ -116,7 +148,11 @@
 
 </Quote>
 
+<Quote wrong=true>
+
 9. The large number of sizable orders suggests that factory operations are thriving, <u>but that the low-tech nature of the processing indicates that</u> profit margins will not be as high as might be expected. （误）
+
+</Quote>
 
 - （从许多巨额订单来看，工厂的营运畅旺，可是加工程序属于低科技，显示利润幅度可能不像预期那么高。）
 
@@ -134,7 +170,11 @@
 
 </Quote>
 
+<Quote wrong=true>
+
 10. Not only is China the world's most populous state <u>but also the largest market</u> in the 21st century. （误）
+
+</Quote>
 
 - （中国不仅是世界人口最多的国家，也是 21 世纪最大的市场。）
 
@@ -148,7 +188,11 @@
 
 注意 also 的位置不一定要和 but 放在一起。also 和 only 一样有强调（focusing）的功能。Not only 修饰动词 is，与其对称之下 also 也和 be 动词放在一起才好，所以右边是 but it is also 而不是 but also it is…。
 
+<Quote wrong=true>
+
 11. New radio stations <u>are either overly partisan, resulting in lopsided propaganda, or avoid politics completely</u>, shirking the media's responsibility as a public watchdog. （误）
+
+</Quote>
 
 - （新成立的广播电台不是党派色彩过于鲜明，造成一面倒的宣传，就是完全避谈政治，推卸了媒体作为大众监察人的责任。）
 
@@ -168,7 +212,11 @@
 
 </Quote>
 
+<Quote wrong=true>
+
 12. Many modern-day scientists are not atheists, to whom there is no such thing as God; <u>rather agnostics</u>, who refrain from conjecturing about the existence of God, much less His properties. （误）
+
+</Quote>
 
 - （许多当代科学家并非无神论者，即不相信有神存在，而是不可知论者，即不愿妄加臆测神的存在与否，更不愿推断神的属性。）
 
