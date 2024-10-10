@@ -23,7 +23,7 @@ You can find it in [this repo](https://github.com/wang-borong/omnidoc).
 
 ```bash
 # 1. get a new markdown file
-python markdown-latex-ext.py ../src/content/Preface.md \
+python ../markdown-converter.py ../src/content/Preface.md \
   ../src/content/Introduction.md \
   ../src/content/Chapter*.md > grammar-club.md
 # 2. use my omnidoc tool
