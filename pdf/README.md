@@ -25,7 +25,7 @@ You can find it in [this repo](https://github.com/wang-borong/omnidoc).
 # 1. get a new markdown file
 python ../markdown-converter.py ../src/content/Preface.md \
   ../src/content/Introduction.md \
-  ../src/content/Chapter*.md > grammar-club.md
+  ../src/content/Chapter*.md -o grammar-club.md
 # 2. use my omnidoc tool
 # NOTE: because this not a standard omnidoc repo, you can not use omnidoc tool directly.
 # However, you can use the makefile to generate the final pdf file.
